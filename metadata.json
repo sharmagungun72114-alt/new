@@ -1,0 +1,7 @@
+{
+  "name": "Voice detector - AI Voice Detector",
+  "description": "Professional AI-powered voice analysis tool to detect synthetic vs human speech across multiple languages including Tamil, Hindi, English, Malayalam, and Telugu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
